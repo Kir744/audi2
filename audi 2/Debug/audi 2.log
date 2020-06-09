@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\Кирилл\source\repos\audi 2\audi 2\main.c(49,15): warning C4013: getche: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\Кирилл\source\repos\audi 2\audi 2\main.c(19,9): warning C4101: y: неиспользованная локальная переменная
+  audi 2.vcxproj -> C:\Users\Кирилл\source\repos\audi 2\Debug\audi 2.exe
